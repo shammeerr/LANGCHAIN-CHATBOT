@@ -1,0 +1,25 @@
+/* Default styles */
+
+body {
+    background-color: #f8f9fa; /* Light gray background */
+    color: #333; /* Dark gray text */
+}
+
+.card {
+    background-color: #fff; /* White card background */
+    border: 1px solid #ddd; /* Light gray border */
+}
+
+.btn {
+    color: #333; /* Dark gray button text */
+}
+
+.btn-light {
+    background-color: #f8f9fa; /* Light gray button background */
+}
+
+.btn-light:hover {
+    background-color: #e2e6ea; /* Light gray button background on hover */
+}
+
+/* Additional styles can be added as needed */

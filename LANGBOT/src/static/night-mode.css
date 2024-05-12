@@ -1,0 +1,23 @@
+/* Night mode styles */
+
+body {
+    background-color: #333; /* Dark background */
+    color: #fff; /* White text */
+}
+
+.card {
+    background-color: #444; /* Dark card background */
+    border: 1px solid #555; /* Dark border */
+}
+
+.btn {
+    color: #fff; /* White button text */
+}
+
+.btn-dark {
+    background-color: #555; /* Dark button background */
+}
+
+.btn-dark:hover {
+    background-color: #777; /* Dark button background on hover */
+}
